@@ -6,8 +6,6 @@ Welcome to my Website
 
 echo "<img src=''  width='500' height='500' />";
   
-print `ifconfig`;
-
 ?>
 </body>
 </html>
